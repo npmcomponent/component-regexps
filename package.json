@@ -1,0 +1,11 @@
+{
+  "name": "component-regexps",
+  "description": "Collection of regular expressions",
+  "version": "0.0.1",
+  "keywords": [
+    "regexp",
+    "regular",
+    "expressions"
+  ],
+  "dependencies": {}
+}
